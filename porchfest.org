@@ -1,0 +1,42 @@
+#+title: Porchfest 2024
+My selection of music for Sommerville's Porchfest 2024
+
+You can see the markeds on the map at https://umap.openstreetmap.fr/en/map/anonymous-edit/1067472:cFDcG49PiCPPHAcvttQUSsCfj2NXqQmhcuB4U7tABdc.
+There's probably a better way to label it.
+
+| Band                                      | Address               | Time          | Zone    | Why? |         lat |                lon |
+|-------------------------------------------+-----------------------+---------------+---------+------+-------------+--------------------|
+| Rocket ship                               | 186 Morrison Ave      | 12:00 - 13:30 | West    | Vibe |   42.396248 |         -71.115638 |
+| Tailwind and Siblings                     | 2 Appleton St         | 12:00 - 14:00 | West    | Must |   42.404411 |         -71.128884 |
+| Reading Room and Funk Safari              | 1 Watson St           | 12:30 - 14:00 | West    |      |   42.350879 |        -71.0605761 |
+| Los Sugar Kings                           | 32 Foskett St         | 12:00 - 14:00 | West    |      | 42.06439035 | -71.86559346608894 |
+| Zion Rodman                               | 128 Willow Ave        | 12:30 - 13:15 | West    |      |   42.391413 |         -71.101792 |
+| Eva Gertz, Talia Rose, Miss Christine     | 120 Central St        | 14:00 - 16:00 | Central |      |   42.396147 |         -71.115702 |
+| TIFFY                                     | 152 Willow Ave        | 14:00 - 16:00 | Central |      |   42.401029 |         -71.122401 |
+| Alright Thanks                            | 71 Simpson Avenue     | 14:00 - 16:00 | Central |      |   42.387848 |         -71.105247 |
+| Balla Kouyaté & Mike Block Duo            | 23 Cambria St         | 14:00 - 16:00 | Central |      |   42.401873 |         -71.121125 |
+| Air traffic controllers                   | 21 Burnham St         | 14:00 - 14:00 | Central | Vibe |   42.388986 |         -71.114904 |
+| The roscoes & The shirts and shoes        | 22 Cedar St           | 14:00 - 16:00 | Central |      |   42.390111 |         -71.108245 |
+| Ruby groove                               | 220 Highland Ave      | 14:00 - 16:00 | Central |      |   42.390499 |         -71.110951 |
+| PINK SLIP                                 | 100 Porter St         | 14:40 - 15:20 | Central |      |   42.391413 |         -71.101792 |
+| Eva Gertz, Talia Rose, Miss Christine     | 120 Central St        | 14:00 - 16:00 | Central |      |   42.388701 |         -71.108794 |
+| The New Grown-Ups                         | 131 Lowell Street     | 14:00 - 16:00 | Central |      |   42.388834 |         -71.111677 |
+| Class President (+ Friends!)              | 226 Summer St.        | 14:00 - 16:00 | Central |      |   42.390704 |         -71.100115 |
+| Jim's Big Ego                             | 74 SYCAMORE ST        | 14:00 - 16:00 | Central |      |   42.390746 |         -71.106875 |
+| Cassie Kollman and Friends                | 79 Hudson St          | 14:00 - 16:00 | Central |      |    42.38403 |         -71.106673 |
+| The Anchovies                             | 12 Central St         | 14:30 - 16:30 | Central |      |   42.391413 |         -71.101792 |
+| Eva Gertz, Talia Rose, Miss Christine     | 120 Central St        | 14:00 - 16:00 | Central |      |   42.393415 |          -71.11295 |
+| the blends                                | 25 Spencer Ave        | 15:00 - 15:30 | Central |      |   42.382964 |         -71.093347 |
+| sidebody                                  | 65 Boston St          | 16:00 - 18:00 | East    |      |   42.385153 |         -71.085474 |
+| Justice cow and special guest             | 95 Pearl St           | 16:00 - 18:00 | East    |      |     42.3763 |         -71.101833 |
+| Earl on earth                             | 15 Dimick St          | 16:00 - 18:00 | East    |      |   42.388854 |         -71.100385 |
+| The proper love                           | 46 Montrose Street    | 16:00 - 18:00 | East    |      |   42.380755 |         -71.095226 |
+| Linnea's Garden                           | 32 Stone Avenue       | 16:00 - 18:00 | East    |      |   42.378452 |         -71.090908 |
+| Jose Allende                              | 9 Rossmore            | 16:00 - 18:00 | East    |      |    42.38176 |         -71.098646 |
+| Polyjamorous & Tarciso Alves              | 51 Bow St 1           | 16:00 - 18:00 | East    |      |    42.38183 |         -71.102336 |
+| Audrey Ryan & Otis Grove                  | 440 Somerville Avenue | 16:00 - 18:00 | East    |      |   42.381379 |         -71.091709 |
+| Emperor Norton's Stationary Marching Band | 16 PROSPECT HILL AVE  | 16:00 - 18:00 | East    |      |    42.38926 |         -71.095262 |
+| Blue Light Bandits                        | 75 Marshall St.       | 16:00 - 18:00 | East    |      |   42.377852 |         -71.098551 |
+| Tobyraps & Friends                        | 16 Lincoln Pkwy       | 16:00 - 18:00 | East    |      |   42.384802 |         -71.104549 |
+| Viruette                                  | 40 Laurel St          | 17:20 - 18:00 | East    |      |   42.387224 |         -71.103122 |
+| Double Star                               | 88 Oxford St          | 17:00 - 5:45  | East    |      |             |                    |
